@@ -18,6 +18,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
+![example branch parameter.](https://github.com/zhangyuezhong/skills-test-with-actions/actions/workflows/ci.yml/badge.svg?branch=main)
 
 ## Step 5: Merge your pull request
 
